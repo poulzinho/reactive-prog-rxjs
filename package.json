@@ -1,0 +1,22 @@
+{
+  "name": "reactive-prog-rxjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poulzinho/reactive-prog-rxjs.git"
+  },
+  "keywords": [
+    "rxjs"
+  ],
+  "author": "poulzinho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poulzinho/reactive-prog-rxjs/issues"
+  },
+  "homepage": "https://github.com/poulzinho/reactive-prog-rxjs#readme"
+}
